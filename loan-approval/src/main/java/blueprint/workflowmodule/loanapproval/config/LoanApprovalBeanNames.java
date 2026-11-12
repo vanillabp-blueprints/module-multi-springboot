@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.loanapproval;
+package blueprint.workflowmodule.loanapproval.config;
 
 import blueprint.commons.WorkflowModuleBeanNameGenerator;
 
